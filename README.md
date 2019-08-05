@@ -7,7 +7,7 @@
 
 获取系统已安装密钥的证书列表。
 函数:GetLicenseList(ItemList),证书列表返回到list of string.
-使用说明(.net4.6):
+使用说明(.net4.6),新线程:
 
 
 vb.net:
