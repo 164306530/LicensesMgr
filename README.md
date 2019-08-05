@@ -35,3 +35,4 @@ c#
             } while (flags == 0);
             Console.WriteLine(String.Join("*",ItemList));
 
+![image](https://github.com/laomms/LicensesMgr/blob/master/license.png)
